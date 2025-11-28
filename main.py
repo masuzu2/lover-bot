@@ -7,8 +7,8 @@ from datetime import datetime
 nest_asyncio.apply()
 
 # ================== CONFIG ==================
-USER_ID = 424943495103512587  # User ID แฟน
-TOKEN = "MTQ0MzgxODU3MjM2NjIyMTQ3Mw.GZHrzM.KEWKYpbHjfwySAm_yH_wSO_6SqfS-FagOhVg6Q"
+USER_ID =  User ID # User ID แฟน
+TOKEN = "YOUR_BOT_TOKEN_HERE"
 
 intents = discord.Intents.default()
 intents.message_content = True
